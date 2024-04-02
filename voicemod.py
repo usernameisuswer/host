@@ -2,8 +2,6 @@
 #   supplemented by Yahikor0     #
 #    This code under AGPL-3.0    #
 
-# requires: ffmpeg-python pytgcalls[telethon] youtube-dl ShazamAPI
-
 import io
 import os
 import re
