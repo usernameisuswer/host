@@ -924,7 +924,7 @@ def get_named_platform() -> str:
         return "🐈‍⬛ Codespaces"
 
     if main.IS_HIKKAHOST:
-        return "ГОВНОХОСТ"
+        return "WhoHost"
 
     return f"✌️ lavHost {os.environ['LAVHOST']}" if main.IS_LAVHOST else "WhoHost"
 
